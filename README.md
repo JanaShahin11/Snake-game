@@ -2,8 +2,7 @@
 
 A modern and fun **Snake Game** built with **HTML, CSS, and JavaScript**.  
 Control the snake, eat food to grow, and aim for the highest score without crashing into yourself!  
-
-![Snake Game Preview](https://via.placeholder.com/600x300.png?text=Snake+Game+Preview) 
+ 
 
 ---
 
